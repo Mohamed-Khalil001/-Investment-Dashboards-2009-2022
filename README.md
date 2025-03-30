@@ -101,10 +101,10 @@ The project consists of **4 interconnected dashboards**, each designed to provid
 ### **4. Final Story**  
 **Purpose**: Summarizes the investment journey with actionable recommendations.  
 
-📖 [**The Story**](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/4-Story%20_insights%20and%20Recommendations/Insights%20and%20Recommendation.pdf)  
-🔍 [**Key Insights and Recommendations**](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/4-Story%20_insights%20and%20Recommendations/The_Story.pdf)  
+-📖 [**The Story**](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/4-Story%20_insights%20and%20Recommendations/Insights%20and%20Recommendation.pdf)  
+-🔍 [**Key Insights and Recommendations**](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/4-Story%20_insights%20and%20Recommendations/The_Story.pdf)  
 
- ![Final Story](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/3-Dashboard%20Images/4-final_story.PNG)
+  - ![Final Story](https://github.com/Mohamed-Khalil001/-Investment-Dashboards-2009-2022/blob/517102324c53c9c888831d81c7fa8eee2dd0bde3/3-Dashboard%20Images/4-final_story.PNG)
 
 
 ---
