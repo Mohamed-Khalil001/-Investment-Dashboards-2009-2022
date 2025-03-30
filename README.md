@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/bde19d5e-1995-40c5-a1c8-af6889d25054) Investment Dashboards: A Power BI Analysis (2009-2022)
+# ![image](https://github.com/user-attachments/assets/bde19d5e-1995-40c5-a1c8-af6889d25054) Investment Dashboard: A Power BI Analysis (2009-2022)
 
 ## 🌟 Project Overview
 Welcome to **Investment Dashboards**, a comprehensive data analysis project that dives deep into the financial performance of major companies from 2009 to 2022. Using **Power BI**, I transformed raw Excel data into **4 interactive dashboards** to uncover market trends, financial metrics, and sector dominance. The project tells a compelling story of Wall Street's journey through economic crises, technological booms, and inflationary pressures.
@@ -126,7 +126,7 @@ The project consists of **4 interconnected dashboards**, each designed to provid
 2. **View the Live Dashboards**:
    - Access them here: [Power BI Report](https://app.powerbi.com/groups/me/reports/bd33330c-ad23-440b-9542-b1b76e9058e4?ctid=0ffeb7b8-177f-48b0-809f-2499efab9107).
 
-3- **Download The Database and start your project
+3- **Download The Database and start your project**
    - Dowload: [Kaggle database](https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023)
 
 ---
